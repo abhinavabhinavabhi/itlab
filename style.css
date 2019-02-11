@@ -1,0 +1,26 @@
+body {
+background-color:linen;
+background-image:url("712496.jpg");
+background-repeat:no-repeat;
+height:100%;
+width:100%;
+background-size:cover;
+background-attachment:fixed;
+}
+h1 {
+
+text-align:center;
+font-size:60px;
+text-decoration:blink;
+
+}
+p.one{
+color:green;
+text-align:center;
+font-size:50px;
+text-transform:uppercase;
+}
+p.two{
+color:orange;
+font-size:50px;
+}
